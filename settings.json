@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ForBrothers.aternos.me",
-    "port": 23260,
+    "ip": "COOL-MC.aternos.me",
+    "port": 51493,
     "version": "1.20.1",
     "try-creative": false
   },
